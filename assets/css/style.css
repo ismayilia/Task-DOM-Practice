@@ -1,0 +1,20 @@
+.header-color{
+    background-color: red;
+}
+
+/* body{
+    background-color: gray !important;
+} */
+
+.body-on{
+    background-color: white !important;
+}
+
+.body-off{
+    background-color: black !important;
+}
+
+.buttons{
+    height: 100vh;
+   
+}
